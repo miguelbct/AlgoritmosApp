@@ -1,7 +1,6 @@
 # 🌟 Algoritmos de Optimización - React Native App
 
 ![React Native](https://img.shields.io/badge/React%20Native-0.72-blue?style=flat&logo=react)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Activo-success)
 
 ## ✨ Descripción
@@ -10,11 +9,8 @@ Esta es una aplicación móvil desarrollada con **React Native** que implementa 
 
 ## 🎯 Características
 
-- 🔍 **Visualización en tiempo real** de algoritmos.
-- ⚖️ Implementación de algoritmos como **Genéticos, Recocido Simulado, Enjambre de Partículas, A* y otros**.
 - 🔄 **Interfaz intuitiva y amigable** basada en React Native.
 - 🌐 Compatible con **Android e iOS**.
-- ⚡ **Rendimiento optimizado** para simulaciones interactivas.
 
 ## 📝 Instalación
 
